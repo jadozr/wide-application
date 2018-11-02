@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "wideApplication",
+    "packageName": "com.altran.wide.application",
+    "packageFolder": "com/altran/wide/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "YTQ5ZWI3NmU2MzU0ZTM2NDNhYTQ0YzlhMDJkM2EwMGU2MTUzYTlmODA5M2EwODA1MjgzMGE2NmU0N2I2NDhiNTFiYWY4ZDM5YTQ4ZmQ0NGZlMDliNmJjYjU3MjczM2E1YjQxNzFiYTIyYzgxYzVmODNhOTkwOTcyY2YzNzEzNWU="
+  },
+  "git-provider": "GitHub",
+  "git-company": "jadozr",
+  "repository-name": "wide-application"
+}
